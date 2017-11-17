@@ -1,7 +1,7 @@
 #include<iostream>
 int main(){
     /*Esto es lo que un comentario
-    que ocupa m·s de una linea del p*/
+    que ocupa m√°s de una linea del p*/
     //Esto es un comentario en una linea
     /*Definicion de variables*/
     int a;
